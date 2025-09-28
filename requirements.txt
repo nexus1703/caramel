@@ -1,0 +1,4 @@
+redis>=5.0.0
+qdrant-client>=1.7.0   # or faiss-cpu if tu préfères
+networkx>=3.0
+pyvis>=0.3.2
